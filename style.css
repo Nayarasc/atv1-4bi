@@ -1,0 +1,24 @@
+.sobre_ti {
+    border: 2px solid rgb(139, 203, 224);
+    width: 500px;
+    height:100px;
+    
+}
+
+.ti_salario {
+    border: 2px solid lightseagreen;
+    width: 500px;
+    height: 170px;
+}
+
+.ti_evolucao {
+    border: 2px solid rgb(118, 118, 230);
+    width: 500px;
+    height: 180px;
+}
+
+.ti_segurança {
+    border: 2px solid rgb(130, 87, 211);
+    width: 500px;
+    height: 180px;
+}
